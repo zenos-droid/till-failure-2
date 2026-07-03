@@ -1,0 +1,6 @@
+{
+  "name": "Till Failure Fitness",
+  "description": "Premium, hardcore transformation and strength training fitness brand in Rishra, Hooghly, West Bengal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
